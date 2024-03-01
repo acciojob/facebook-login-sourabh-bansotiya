@@ -22,7 +22,7 @@ body{
     gap: 10px;
 }
 
-.left_img{
+.left_img img{
     width: 480px;
     display: inline-block;
 	margin-right:20px;
