@@ -6,11 +6,9 @@ body{
     align-items: center;
     height: 100vh;
 }
-#heading{
-margin-top: 100px;
-font-size: 80px;
-margin-right: 30px;
-color: #1877f2;
+
+.fb_logo{
+	width:450px;
 }
 
 .fb_right{
@@ -32,6 +30,7 @@ color: #1877f2;
 
 #help{
 	width:120%;
+	font-size:16px;
 }
 
 #fname{
