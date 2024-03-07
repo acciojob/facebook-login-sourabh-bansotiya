@@ -79,3 +79,9 @@ text-decoration: none;
 	border: 1px solid white;
 }
 
+.left img{
+	width: 500px;
+}
+.fb_left{
+	margin-top: 70px;
+}
